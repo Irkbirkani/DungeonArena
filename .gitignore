@@ -410,3 +410,9 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/unity,visualstudio
+Dungeon Arena/Library/metadata/
+Dungeon Arena/Library/PackageCache/com.unity.ads@2.0.8/CHANGELOG.md
+Dungeon Arena/Library/PackageCache/
+Dungeon Arena/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+Dungeon Arena/Library/
+Dungeon Arena/Temp/
